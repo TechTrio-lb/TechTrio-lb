@@ -46,19 +46,18 @@ We combine **creative branding**, **technical expertise**, and **strategic think
 ---
 
 ## 🚀 Featured Projects
-> Pin your most important repos to your GitHub profile so they show up here.
 
-- **Business Website Templates** — Modern, responsive designs for small businesses  
-- **Social Media Automation Tool** — Automates posting and analytics tracking  
-- **Smart Office Setup** — Integrated IoT devices for productivity and security  
+- **Smart Parking System** - Automated System Combining Hardware and Software
+- **Menu Ordering System** - Web-Based Platform With Integrated QR Code Functionality
+- **Bussiness Smart Branding** - Modern and Strategic Plans For Businesses
 
 ---
 
 ## 📫 Contact Us
-📧 **Email:** contact@techtrio.com  
+📧 **Email:** techtriolb@gmail.com 
 🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
 🔗 **LinkedIn:** [linkedin.com/company/techtrio](https://linkedin.com/company/techtrio)  
 
 ---
 
-💡 *TechTrio — Your partner in technology, creativity, and innovation.*
+💡 *TechTrio — Where Technology Meets Perfection.*
