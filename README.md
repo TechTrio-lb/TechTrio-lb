@@ -12,7 +12,8 @@ Save this as README.md in a repo named exactly your GitHub username to make it y
 <p align="center">
   <a href="#">Website</a> ·
   <a href="mailto:techtriolb@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/company/techtrio">LinkedIn</a>
+  <a href="https://www.facebook.com/share/1C2cu5JSkS/?mibextid=wwXIfr">Facebook</a>
+  <a href="https://www.instagram.com/techtrio.lb?igsh=eXh0c3BteWFnZTZ5">Instagram</a>
 </p>
 
 ---
