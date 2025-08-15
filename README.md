@@ -4,7 +4,7 @@ Save this as README.md in a repo named exactly your GitHub username to make it y
 
 <p align="center">
   <!-- Optional: Insert your logo -->
-  <!-- <img src="LOGO_URL" alt="TechTrio Logo" width="120" /> -->
+ <img src="https://github.com/TechTrio-lb/TechTrio-lb/blob/main/logo-transparent.png" alt="TechTrio Logo" width="120" /> 
   <h1>TechTrio</h1>
   <em>Where Technology Meets Perfection.</em>
 </p>
