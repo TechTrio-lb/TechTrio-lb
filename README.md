@@ -54,7 +54,7 @@ We combine **creative branding**, **technical expertise**, and **strategic think
 ---
 
 ## 📫 Contact Us
-📧 **Email:** techtriolb@gmail.com . 
+📧 **Email:** techtriolb@gmail.com · 
 🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
 
 
