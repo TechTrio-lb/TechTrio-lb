@@ -37,7 +37,7 @@ We combine **creative branding**, **technical expertise**, and **strategic think
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** JavaScript, Python, PHP, HTML, CSS  
+**Languages:** JavaScript, Python, PHP, HTML5, CSS3  
 **Frameworks:** React, Flutter, Laravel  
 **Cloud & DevOps:** AWS, Firebase, Docker  
 **Design & Branding:** Adobe Creative Suite, Figma  
