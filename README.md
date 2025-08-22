@@ -29,10 +29,10 @@ We combine **creative branding**, **technical expertise**, and **strategic think
 ## 🧩 Our Services
 - **Web Development** – Custom websites, e-commerce, and web apps  
 - **Mobile App Development** – Android, iOS, and cross-platform apps  
-- **Social Media Management** – Content creation, scheduling, and growth strategies  
-- **Business Branding** – Logos, slogans, themes, marketing campaigns  
+- **Digital Marketing** – Social media management, branding, content creation, and marketing campaigns
 - **WiFi Solutions** – Reliable internet infrastructure for events and businesses  
-- **Smart Systems Integration** – IoT solutions, automation, and tech-enabled environments  
+- **Smart Systems Integration** – IoT solutions, automation, and tech-enabled environments
+- **Training** – Courses and workshops to upskill your team or yourself  
 
 ---
 
